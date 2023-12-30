@@ -182,6 +182,10 @@ dan juga fakta fakta yang dibahas didalamnya.
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Menurut saya menggambar menggunakan program merupakan hal yang luar biasa
+
+<img width="1217" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/b83f5ec9-6b3c-4b86-98a5-655113d6e993">
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
