@@ -133,6 +133,16 @@ AI Mengklasifikasikan Gambar kedalam sebuah caption.
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+Menggunakan Bing Creator untuk memerintahkan AI dengan text untuk membuat sebuah gambar
+
+<img width="851" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/593ae038-3157-43fd-a75f-3dabff5bef56">
+
+Menggunakan ChatGPT untuk memerintahkan AI dengan text untuk membuat sebuah text percakapan
+
+<img width="1025" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/4c38a460-05f6-4a98-b763-5efa0781dc27">
+
+
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
