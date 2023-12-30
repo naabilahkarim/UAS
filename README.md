@@ -6,6 +6,8 @@
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+<img width="953" alt="Screenshot 2023-12-30 182819" src="https://github.com/naabilahkarim/UAS/assets/144679969/313af4bf-ca57-4112-93e2-3ecf106ae6f2">
+
 
 ## Mencoba Console Sistem Operasi
 
@@ -119,6 +121,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![mqtt1](https://github.com/naabilahkarim/UAS/assets/144679969/2ea28a62-4580-4cae-944b-2dfa37ade660)
+![mqtt2](https://github.com/naabilahkarim/UAS/assets/144679969/db0798f5-8b12-488c-a9ec-ba8e096325bd)
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
