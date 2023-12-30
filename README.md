@@ -68,6 +68,9 @@ Penggunaan IDE Visual Studio Code
 
 3. Instalasi Aplikasi
 
+<img width="454" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/86ab742c-172f-452f-830f-0df0e725a582">
+
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
