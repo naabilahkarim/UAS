@@ -183,6 +183,9 @@ Mengeksplor lowongan pekerjaan di situs hackerrank https://www.hackerrank.com/ap
 
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Membuka situs https://www.upwork.com/ dan mencoba mengeksplor bagian pekerjaan.
+
+<img width="1024" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/af63e023-72a6-41d5-8f89-f62bc667f8ac">
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
