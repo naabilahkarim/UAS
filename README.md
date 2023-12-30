@@ -25,6 +25,10 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/fd325356-1f03-4505-8cd5-77fa44ef9e9d">
+
+Algoritma Bubble Sort disini adalah untuk menyortir nilai-nilai mahasiswa berdasarkan grade nya dan sesuai urutan tertinggi.
+Flow Chart: <img width="324" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/824017e6-2f5e-49f1-b04a-1c6a9191491a">
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -69,6 +73,7 @@ Referensi []
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 <img width="653" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/96dbb7ce-dc3a-4208-8db0-84ad65baf883">
+
 Contoh file JSON untuk memberikan nilai pada variabel siteName
 JSON adalah Javascript Object Notation penggunaan nya bisa untuk membaca, menukar informasi, serta menyimpan.  
 
