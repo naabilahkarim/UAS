@@ -27,6 +27,9 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/fd325356-1f03-4505-8cd5-77fa44ef9e9d">
 
+<img width="298" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/850dde48-7d43-4af8-9533-730d9315ab23">
+
+
 Algoritma Bubble Sort disini adalah untuk menyortir nilai-nilai mahasiswa berdasarkan grade nya dan sesuai urutan tertinggi.
 Flow Chart: <img width="324" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/824017e6-2f5e-49f1-b04a-1c6a9191491a">
 
