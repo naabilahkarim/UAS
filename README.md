@@ -187,6 +187,7 @@ dan juga fakta fakta yang dibahas didalamnya.
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/naabilahkarim/ ✅
+
 <img width="265" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/c7bff294-69d7-4295-9824-0967962f75b3">
 
 
