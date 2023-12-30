@@ -13,6 +13,9 @@
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
+Menampilkan folder penyimpanan menggunakan WinCMD
+<img width="868" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/b2ea4487-6641-4e11-8e46-62f7ecd622c4">
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
