@@ -33,9 +33,13 @@ Referensi [1](https://scratch.mit.edu/)
 
 
 Algoritma Bubble Sort disini adalah untuk menyortir nilai-nilai mahasiswa berdasarkan grade nya dan sesuai urutan tertinggi.
-Flow Chart: <img width="324" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/824017e6-2f5e-49f1-b04a-1c6a9191491a">
+Flow Chart: <img width="363" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/2c207eff-1a63-4685-9515-493272157a7c">
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
+Penggunaan IDE Visual Studio Code
+<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/a08da556-2add-41fe-b280-762c26e1f9d8">
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
