@@ -61,6 +61,9 @@ Penggunaan IDE Visual Studio Code
 Menginstal PostgreSQL
 <img width="1224" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/517102c7-0a67-43e5-b40e-3cfaf4844bc6">
 
+Instalasi Setup
+<img width="412" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/f983c8df-7b5d-4793-b232-ae94746cf814">
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
