@@ -165,6 +165,10 @@ dan juga fakta fakta yang dibahas didalamnya.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+Mengunjungi Artikel Jurnal berjudul "Advanced Engineering Informatics" di Science Direct https://www.sciencedirect.com/science/article/abs/pii/S1474034623004056
+
+<img width="1077" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/eca32a12-9c67-45af-b62e-055684350afa">
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
