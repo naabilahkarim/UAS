@@ -94,6 +94,13 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
+Membuat website interaktif menggunakan HTML, CSS, JS.
+
+<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/b2acdb1a-24fc-463c-89e7-68e9fd6a0e96">
+
+<img width="1234" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/53bf4a5e-331e-471b-a9a7-8260716e7b6e">
+
+
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
