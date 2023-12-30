@@ -58,6 +58,9 @@ Penggunaan IDE Visual Studio Code
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+Menginstal PostgreSQL
+<img width="1224" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/517102c7-0a67-43e5-b40e-3cfaf4844bc6">
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
