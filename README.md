@@ -1,4 +1,4 @@
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+<img width="1166" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/33bd009c-0478-4fd1-bf14-89d25e59ef46">## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
  Computational thinking atau berfikir komputasi adalah proses berfikir untuk mennyelesaikan masalah dengan efektif dan efisien. dalam informatika proses ini dilakukan sebelum mulai menulis coding atau pemrograman agar codingan yang ditulis bisa sesuai dengan cepat dan tepat. contoh sederhana di kehidupan sehari-hari yaitu seperti menyiapkan barang-barang yang akan di bawa ke sekolah. contoh lainnya yaitu kita berfikir apa yang akan kita lakukan jika tersesat atau apa yang akan kita lakukan jika kita di tilang polisi. 
 
  Empat landasan berfikir computational yang pertama yaitu dekomposisi, dekomposisi adalah membagi masalah kompleks kebagian yang lebih kecil agar mudah di selesaikan. misalnya kita di tunjuk sebagai ketua kelas untuk memudahkan pelaksanaan kita bisa menunjuk orang yang akan membantu kita misalnya dibuat per bidang, ada bidang yang mengurus akademik, keuangan kelas, dan bidang lainnya. kemudian yang kedua yaitu pengenalan pola yang artinya mencari kesamaan dan pola di antara bagian-bagian masalah kompleks yang sudah di pecah. yang ketiga itu abstraksi yang artinya fokus pada informasi yang penting saja, mengabaikan detail yang tidak di perlukan. yang terakhir algoritma, algoritma adalah membuat langkah-langkah penyelesaian atau membuat aturan yang di ikuti untuk menyelesaikan masalah.
@@ -176,6 +176,11 @@ dan juga fakta fakta yang dibahas didalamnya.
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
+Mengeksplor lowongan pekerjaan di situs hackerrank https://www.hackerrank.com/apply
+
+<img width="1166" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/399a789e-b542-408d-b6b2-b16760177fad">
+
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
