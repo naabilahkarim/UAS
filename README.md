@@ -152,6 +152,8 @@ dan juga fakta fakta yang dibahas didalamnya.
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/bed7ec9a-e496-4f29-8229-d044405c8ce1)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
