@@ -68,6 +68,10 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+<img width="653" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/96dbb7ce-dc3a-4208-8db0-84ad65baf883">
+Contoh file JSON untuk memberikan nilai pada variabel siteName
+JSON adalah Javascript Object Notation penggunaan nya bisa untuk membaca, menukar informasi, serta menyimpan.  
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
@@ -113,7 +117,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-Jurnal adalah publikasi periodik yang berisi artikel-artikel ilmiah,
+Jurnal adalah sebuah tulisan yang berisi berupa artikel-artikel ilmiah,
 penelitian, dan ulasan dalam bidang akademis atau ilmiah tertentu.
 
 Sedangkan Konferensi adalah pertemuan atau forum di mana berkumpulnya para peneliti
