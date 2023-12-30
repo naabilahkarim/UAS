@@ -187,8 +187,11 @@ dan juga fakta fakta yang dibahas didalamnya.
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/naabilahkarim/ ✅
+<img width="265" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/c7bff294-69d7-4295-9824-0967962f75b3">
+
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+<img width="725" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/8232403d-7d3e-4712-af3e-b046795872de">
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
