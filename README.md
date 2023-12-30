@@ -113,6 +113,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+Jurnal adalah publikasi periodik yang berisi artikel-artikel ilmiah,
+penelitian, dan ulasan dalam bidang akademis atau ilmiah tertentu.
+
+Sedangkan Konferensi adalah pertemuan atau forum di mana berkumpulnya para peneliti
+dan ahli ahli dan lain lain untuk mendiskusikan dan bertukar informasi mengenai suatu
+pengenmbangan.
+
+Artikel adalah tulisan yang menyajikan informasi, pendapat orang, atau penelitian. Artikel biasanya
+berbentuk situs web atau lebaran majalah.
+
+Dan yang terakhir adalah Grade Jurnal, hal ini dibuat untuk menentukan seberapa berkelas
+sebuah tulisan atau jurnal dll. Kemudian dibuat sebuah peringkat atau klasifikasi jurnal ilmiah
+berdasarkan faktor faktor tertentu. Sebagai contoh penilaiannya berkaitan dengan hasil penelitian 
+dan juga fakta fakta yang dibahas didalamnya.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -135,6 +149,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/naabilahkarim/ ✅
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
