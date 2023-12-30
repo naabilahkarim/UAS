@@ -125,6 +125,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+Mencoba AI yang bisa membuat caption berdasarkan gambar yang kita masukkan
+di website https://captionmaster.io/
+AI Mengklasifikasikan Gambar kedalam sebuah caption.
+<img width="938" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/0aa6f435-5693-4c66-9661-dcf6baf3614a">
+
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
