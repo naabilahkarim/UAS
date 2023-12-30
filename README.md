@@ -5,6 +5,12 @@
     
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+(Personal Computer - PC) Ini adalah mesin komputasi yang paling umum ditemui. PC dirancang untuk digunakan oleh satu orang pada suatu waktu. Contohnya termasuk desktop dan laptop.
+
+Server adalah sebuah mesin komputasi yang dirancang untuk menyimpan, mengelola, dan menyediakan akses terhadap sumber daya termasuk data-data kepada komputer lain dalam suatu jaringan.
+
+Embedded Computer merupakan mesin komputasi yang ditanamkan (embedded) di dalam suatu perangkat atau sistem yang lebih besar. Contohnya termasuk mikrokontroler dalam perangkat elektronik rumah tangga, mobil, atau peralatan medis.
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 <img width="953" alt="Screenshot 2023-12-30 182819" src="https://github.com/naabilahkarim/UAS/assets/144679969/313af4bf-ca57-4112-93e2-3ecf106ae6f2">
 
