@@ -235,6 +235,13 @@ Menggunakan ChatGPT untuk memerintahkan AI dengan text untuk membuat sebuah text
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
+Menggunakan Chart.js untuk mencoba visualisasi data dengan script
+
+<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/98a1dc81-d31c-43c0-808c-832d84aac93d">
+<img width="1228" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/dbf3755d-d9b2-415a-a6a5-d34f6a9cf653">
+
+
+
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
