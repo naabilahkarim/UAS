@@ -124,6 +124,52 @@ Membuat website interaktif menggunakan HTML, CSS, JS.
 </html>
 
 ```
+```css
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    cursor: pointer;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #333;
+    background-color: #fff;
+    transition: background-color 0.3s;
+}
+
+.box:hover {
+    background-color: #eee;
+}
+
+.box.selected {
+    background-color: #3498db;
+    color: #fff;
+}
+```
+```js
+function changeColor(boxId) {
+
+    document.querySelectorAll('.box').forEach(function(box) {
+        box.classList.remove('selected');
+    });
+
+
+    document.getElementById(boxId).classList.add('selected');
+}
+
+```
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
