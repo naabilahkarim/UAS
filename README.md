@@ -189,6 +189,15 @@ JSON adalah Javascript Object Notation penggunaan nya bisa untuk membaca, menuka
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+Karena Browser yang saya gunakan disini adalah Microsoft Edge
+maka dari itu untuk membuka developer tools di edge jalankan shortcut Ctrl + Shift + I
+
+<img width="1278" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/49f3aa37-c656-4a56-9b37-e05ea4556aab">
+
+Perlu kita ketahui Developer Tools hanya berfungsi untuk meng-inspect, atau memeriksa suatu halaman.
+Dan kita tidak bisa merubah isi dari halaman tersebut karena yang bisa kita ubah hanyalah tampilan halaman dari perangkat kita.
+Ketika melakukan refresh, maka tampilan dokumen/halaman akan kembali semula seperti yang ditetapkan oleh server dari halaman tsb.
+
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
