@@ -201,6 +201,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+Mengedit Konten Instastory Informatif dengan Aplikasi Figma
+
+<img width="1236" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/53a5c917-60c0-4d42-b913-5183e9640ff1">
+
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
