@@ -100,12 +100,31 @@ Membuat website interaktif menggunakan HTML, CSS, JS.
 
 <img width="1234" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/53bf4a5e-331e-471b-a9a7-8260716e7b6e">
 
+```
+html
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Kotak Suara PilPres 2024</title>
+</head>
+<body>
 
+<div class="container">
+    <div class="box" id="box1" onclick="changeColor('box1')">Kotak Suara 1</div>
+    <div class="box" id="box2" onclick="changeColor('box2')">Kotak Suara 2</div>
+    <div class="box" id="box3" onclick="changeColor('box3')">Kotak Suara 3</div>
+</div>
+
+
+</body>
+</html>
+
+```
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
