@@ -100,8 +100,7 @@ Membuat website interaktif menggunakan HTML, CSS, JS.
 
 <img width="1234" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/53bf4a5e-331e-471b-a9a7-8260716e7b6e">
 
-```
-html
+```html
 
 <!DOCTYPE html>
 <html lang="en">
