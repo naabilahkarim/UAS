@@ -173,7 +173,7 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-<img width="653" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/96dbb7ce-dc3a-4208-8db0-84ad65baf883">
+<img width="960" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/e295fd45-6923-47b5-8b0a-044e0f4d6e67">
 
 Contoh file JSON untuk memberikan nilai pada variabel siteName
 JSON adalah Javascript Object Notation penggunaan nya bisa untuk membaca, menukar informasi, serta menyimpan.  
