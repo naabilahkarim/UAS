@@ -189,7 +189,8 @@ JSON adalah Javascript Object Notation penggunaan nya bisa untuk membaca, menuka
 Karena Browser yang saya gunakan disini adalah Microsoft Edge
 maka dari itu untuk membuka developer tools di edge jalankan shortcut Ctrl + Shift + I
 
-<img width="1278" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/49f3aa37-c656-4a56-9b37-e05ea4556aab">
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/74c311e9-5416-4d31-8905-8fa5a80ebde8)
+
 
 Perlu kita ketahui Developer Tools hanya berfungsi untuk meng-inspect, atau memeriksa suatu halaman.
 Dan kita tidak bisa merubah isi dari halaman tersebut karena yang bisa kita ubah hanyalah tampilan halaman dari perangkat kita.
@@ -243,8 +244,10 @@ Menggunakan ChatGPT untuk memerintahkan AI dengan text untuk membuat sebuah text
 
 Menggunakan Chart.js untuk mencoba visualisasi data dengan script
 
-<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/98a1dc81-d31c-43c0-808c-832d84aac93d">
-<img width="1228" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/dbf3755d-d9b2-415a-a6a5-d34f6a9cf653">
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/72cf5370-3c76-43bc-902a-02b315bf99cd)
+
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/e0677b62-8dff-4d6a-9e2a-c627f3c7b4a7)
+
 
 
 
