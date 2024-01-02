@@ -91,9 +91,11 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 Membuat website interaktif menggunakan HTML, CSS, JS.
 
-<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/b2acdb1a-24fc-463c-89e7-68e9fd6a0e96">
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/b8f09eb8-c821-4a76-8d21-48217c4c04f2)
 
-<img width="1234" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/53bf4a5e-331e-471b-a9a7-8260716e7b6e">
+
+![image](https://github.com/naabilahkarim/UAS/assets/144679969/bc77c614-7d3f-4318-9e30-58ee6a8b9bef)
+
 
 ```html
 
