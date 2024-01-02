@@ -53,16 +53,17 @@ Flow Chart: <img width="363" alt="image" src="https://github.com/naabilahkarim/U
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 1. Menginstal PostgreSQL
-   
-<img width="1224" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/517102c7-0a67-43e5-b40e-3cfaf4844bc6">
+![Screenshot (167)](https://github.com/naabilahkarim/UAS/assets/144679969/d23baeef-25a5-44fe-9c85-6e0a777f01cc)
+
+
 
 2. Instalasi Setup
+![Screenshot (169)](https://github.com/naabilahkarim/UAS/assets/144679969/ddec77fa-fa44-4b1f-8294-7ebfd72a9806)
 
-<img width="412" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/f983c8df-7b5d-4793-b232-ae94746cf814">
 
 3. Instalasi Aplikasi
 
-<img width="454" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/86ab742c-172f-452f-830f-0df0e725a582">
+![Screenshot (170)](https://github.com/naabilahkarim/UAS/assets/144679969/b2ca04bb-3b9b-4f3e-b674-78e2ea1b7739)
 
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
