@@ -20,7 +20,8 @@ Embedded Computer merupakan mesin komputasi yang ditanamkan (embedded) di dalam 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Menampilkan folder penyimpanan menggunakan WinCMD
-<img width="868" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/b2ea4487-6641-4e11-8e46-62f7ecd622c4">
+<img width="960" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/ea2352b9-6cdf-40a4-a871-f5f98c066511">
+
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
@@ -38,19 +39,12 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/fd325356-1f03-4505-8cd5-77fa44ef9e9d">
-
-<img width="298" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/850dde48-7d43-4af8-9533-730d9315ab23">
-
 
 Algoritma Bubble Sort disini adalah untuk menyortir nilai-nilai mahasiswa berdasarkan grade nya dan sesuai urutan tertinggi.
 Flow Chart: <img width="363" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/2c207eff-1a63-4685-9515-493272157a7c">
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-
-Penggunaan IDE Visual Studio Code
-<img width="1280" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/a08da556-2add-41fe-b280-762c26e1f9d8">
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
