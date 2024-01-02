@@ -328,7 +328,6 @@ https://github.com/naabilahkarim/ ✅
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-<img width="725" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/8232403d-7d3e-4712-af3e-b046795872de">
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
