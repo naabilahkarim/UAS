@@ -342,6 +342,8 @@ https://github.com/naabilahkarim/ ✅
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 [mastering-solid-principles-to-boost-engineering-career-certificate.pdf](https://github.com/naabilahkarim/UAS/files/13974956/mastering-solid-principles-to-boost-engineering-career-certificate.pdf)
 <img width="404" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/ade96121-7524-436d-a98c-fc17de23468c">
+![Screenshot (187)](https://github.com/naabilahkarim/UAS/assets/144679969/1accf49a-7327-443c-adfb-56b9d1521fab)
+
 
 
 
