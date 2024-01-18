@@ -58,7 +58,8 @@ Flow Chart: <img width="363" alt="image" src="https://github.com/naabilahkarim/U
    https://www.figma.com/proto/HKT4NL8fR0vwJs4x4JiDEj/Workspace-Minostudio?type=design&node-id=305-2&t=qvKQAX7P9F6IPVHq-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=305%3A2&show-proto-sidebar=1
 
 4. code
-    
+   ![Screenshot (94)](https://github.com/naabilahkarim/UAS/assets/144679969/c8034ff1-ecf7-43c3-b917-ce1e3257948e)
+
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
