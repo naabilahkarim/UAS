@@ -50,6 +50,17 @@ Flow Chart: <img width="363" alt="image" src="https://github.com/naabilahkarim/U
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+1. desain
+   ![image](https://github.com/naabilahkarim/UAS/assets/144679969/ffa250d4-7c5a-49f4-88ec-975eda3c0fdb)
+
+2. prototype
+
+   https://www.figma.com/proto/HKT4NL8fR0vwJs4x4JiDEj/Workspace-Minostudio?type=design&node-id=305-2&t=qvKQAX7P9F6IPVHq-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=305%3A2&show-proto-sidebar=1
+
+4. code
+    
+
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 1. Menginstal PostgreSQL
@@ -328,6 +339,10 @@ https://github.com/naabilahkarim/ ✅
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+[mastering-solid-principles-to-boost-engineering-career-certificate.pdf](https://github.com/naabilahkarim/UAS/files/13974956/mastering-solid-principles-to-boost-engineering-career-certificate.pdf)
+<img width="404" alt="image" src="https://github.com/naabilahkarim/UAS/assets/144679969/ade96121-7524-436d-a98c-fc17de23468c">
+
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
